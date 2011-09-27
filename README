@@ -1,0 +1,5 @@
+Usage: x [files] [option]
+extracts an archive file. options not shown below are passed to the extracting app.
+use {} anywhere in those passed options and the file name (without the extension) of the archive will be placed there.
+
+For help: ex -xh
